@@ -1,0 +1,29 @@
+{
+  "name": "react-native-template-typescript",
+  "version": "0.0.1",
+  "description": "Clean and minimalist React Native template for a quick start with TypeScript.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emin93/react-native-template-typescript.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "<Abraham José González Barboza> <jgab.net@gmail.com> (https://github.com/jgab-net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/is-pawa/react-native-typescript-template/issues"
+  },
+  "homepage": "https://github.com/is-pawa/react-native-typescript-template#readme"
+}
